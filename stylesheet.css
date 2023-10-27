@@ -1,0 +1,20 @@
+
+#results {
+         display:none;
+}
+
+body {
+background:
+      radial-gradient(35.36% 35.36% at 100% 25%,#0000 66%,#474bff 68% 70%,#0000 72%) 25px 25px/calc(2*25px) calc(2*25px),
+      radial-gradient(35.36% 35.36% at 0    75%,#0000 66%,#474bff 68% 70%,#0000 72%) 25px 25px/calc(2*25px) calc(2*25px),
+      radial-gradient(35.36% 35.36% at 100% 25%,#0000 66%,#474bff 68% 70%,#0000 72%) 0 0/calc(2*25px) calc(2*25px),
+      radial-gradient(35.36% 35.36% at 0    75%,#0000 66%,#474bff 68% 70%,#0000 72%) 0 0/calc(2*25px) calc(2*25px),
+      repeating-conic-gradient(rgba(172, 255, 71, 0.21) 0 25%,#0000 0 50%) 0 0/calc(2*25px) calc(2*25px),
+      radial-gradient(#0000 66%,#474bff 68% 70%,#0000 72%) 0 calc(25px/2)/25px 25px
+      rgba(172, 255, 71, 0.21);
+}
+	   
+div { 
+background-color: red;
+}	 
+  
